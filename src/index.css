@@ -1,0 +1,35 @@
+.purple{
+    background:transparent;
+    border-bottom: 1px solid black;
+    box-shadow: 0 0 50px black;
+}
+.home__title{
+    font-size: 150px;
+    color: white;
+}
+
+@media(max-width:800px){
+    .home__title{
+    font-size: 100px;
+}}
+@media(max-width:600px){
+    .home__title{
+    font-size: 80px;
+}
+
+}
+@media(max-width:400px){
+.home__title{
+    font-size: 65px;
+}
+}
+.inbox{
+    background-color: rgba(113, 1, 113, 0.422);
+    backdrop-filter: blur(20px); 
+  -webkit-backdrop-filter: blur(8px); }
+.bg-purpl{
+    background-color: purple;
+    border: none;
+    color: white;
+
+}
