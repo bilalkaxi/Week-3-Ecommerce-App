@@ -8,7 +8,7 @@ export default function Home() {
         Your Ultimate Destination for the Best Value Electronics and Gadgets
       </p>
       <div className="mt-4">
-        <Link to="/products" className="btn btn-secondary btn-lg me-3">
+        <Link to="/products" className="btn btn-secondary btn-lg me-3 mb-2">
           Browse Products
         </Link>
         <Link to="/cart" className="btn btn-success btn-lg">
